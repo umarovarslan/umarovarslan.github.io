@@ -5,6 +5,7 @@
     "left mainimage footer";
     grid-template-columns: auto;
     grid-template-rows: auto;
+    width: fit-content;
 }
 .header{
     height: 50px;
