@@ -5,6 +5,7 @@
     grid-template-areas: "header header"
     "choose choose"
     "btns footer";
+    width: fit-content;
 }
 .header{
     grid-area: header;
