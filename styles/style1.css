@@ -6,7 +6,6 @@
     "choose choose"
     "btns footer";
     width: fit-content;
-    background-color: brown;
 }
 .header{
     grid-area: header;
