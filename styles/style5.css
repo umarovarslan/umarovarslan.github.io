@@ -6,6 +6,7 @@
     "contacts"
     "wechatcontacts"
     "instagramcontacts";
+    width: fit-content;
 }
 .header{
     grid-area: header;
