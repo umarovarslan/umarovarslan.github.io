@@ -6,6 +6,7 @@
     "choose"
     "methods"
     "mainpart";
+    width: fit-content;
 }
 .header{
     grid-area: header;
